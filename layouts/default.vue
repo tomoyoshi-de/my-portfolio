@@ -30,6 +30,14 @@
             <a href="https://diffeasy.com" target="_blank">株式会社diffeasy</a>
           </v-list-tile-content>
         </v-list-tile>
+        <v-list-tile>
+          <v-list-tile-action>
+            <v-icon>bubble_chart</v-icon>
+          </v-list-tile-action>
+          <v-list-tile-content>
+            <a href="https://kojo-shin.com/lp" target="_blank">大会運営向上心〜KOJO-SHiN〜</a>
+          </v-list-tile-content>
+        </v-list-tile>
 
       </v-list>
     </v-navigation-drawer>
